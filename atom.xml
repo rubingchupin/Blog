@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>如冰</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <icon>https://rubing.us.kg/img/avatar.jpg</icon>
+  <id>https://rubing.us.kg/</id>
+  <link href="https://rubing.us.kg/" rel="alternate"/>
+  <link href="https://rubing.us.kg/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, 如冰</rights>
+  <subtitle>此即智慧之殿堂</subtitle>
+  <title>如冰的博客</title>
+  <updated>2026-02-19T12:40:10.634Z</updated>
+  <entry>
+    <author>
+      <name>如冰</name>
+    </author>
+    <id>https://rubing.us.kg/posts/62291.html</id>
+    <link href="https://rubing.us.kg/posts/62291.html"/>
+    <published>2026-02-19T11:21:46.042Z</published>
+    <summary>
+      <![CDATA[<h2 id="你好！"><a href="#你好！" class="headerlink"]]>
+    </summary>
+    <title>Hello</title>
+    <updated>2026-02-19T12:40:10.634Z</updated>
+  </entry>
+</feed>
