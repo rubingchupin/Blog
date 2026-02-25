@@ -397,5 +397,4 @@
     calendarRoot: 'calendar/',
     calendarUrl: 'calendar.json'
   };
-
 }(jQuery));
