@@ -1,18 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello</title>
-    <url>/posts/62291.html</url>
-    <content><![CDATA[<h2 id="你好">你好！</h2>
-<p>此为测试消息</p>
+    <title>六二班签名项目</title>
+    <url>/posts/undefined.html</url>
+    <content><![CDATA[<h1 id="签名项目">签名项目</h1>
+<p>时光飞逝，转眼间小学生活即将结束。为纪念我们班的同学们，我在班中开展了签名活动，现在我将签名公开至本网站，供大家查看。</p>
+<blockquote>
+<p>未签名的同学将无法在此查看到自己的签名。</p>
+</blockquote>
+<h2 id="查看地址">查看地址</h2>
+<p>以下是签名的查看地址：<br>
+<code>rubing.us.kg/class62/ 你的号数 /img.png</code></p>
+<h2 id="查看格式">查看格式</h2>
+<p>如果你是本班的老师，那么你可以按照如下格式查看：<br>
+你的号数为：t1 ~ t3<br>
+t表示teacher<br>
+t后面的数字按照科目排序，顺序为：语文、数学、英语</p>
+<p>如果你是本班的学生，那么你可以按照如下格式查看：<br>
+你的号数为：01 ~ 49</p>
+<p>如果你想查看所有人的签名，那么你可以按照如下格式查看：<br>
+你的号数为：all</p>
+<p>具体的描述请看 <a href="https://rubing.us.kg/class62/img.txt">这里</a></p>
+<h2 id="签署声明">签署声明</h2>
+<p>所有签写人员在签写时均已同意将自己的签名上传至本网站，本网站并无侵权行为。</p>
+<h2 id="后记">后记</h2>
+<p>该项目可签写时间段为：2026年03月13日 ~ 本学期结束<br>
+学术交流邮箱<a href="mailto:rubingchupin@outlook.com">rubingchupin@outlook.com</a></p>
+<p>本学期时间还长，我还会争取在这最后一学期制作更多班级项目。<br>
+如还有本班班级资料托管也请联系我<a href="mailto:rubingchupin@outlook.com">rubingchupin@outlook.com</a></p>
 ]]></content>
+      <tags>
+        <tag>小学签名</tag>
+      </tags>
   </entry>
   <entry>
-    <title>Hello</title>
-    <url>/posts/62291.html</url>
-    <content><![CDATA[<h2 id="你好">你好！</h2>
-<p>我是如冰，这是我的博客网站！<br>
-–此为测试消息</p>
+    <title>我博客的历史</title>
+    <url>/posts/undefined.html</url>
+    <content><![CDATA[<h1 id="关于我的博客">关于我的博客</h1>
+<h2 id="魔改阶段">魔改阶段</h2>
+<p>我的博客从2024年就开始筹备了，期间我对于 <code>hexo</code> 的魔改一直都没有停下，域名也是一直在换，可是网上的那些教程版本太老了，根本就不能满足我使用最新版本的 <code>hexo</code> 的野心，而且那时我的知识储备根本不足以让我学习教程的魔改方式来适配最新版本，于是就一直拖到了现在。</p>
+<h2 id="时间对魔改的影响">时间对魔改的影响</h2>
+<p>现在，我也成功的做出来了我的博客，也就是这个网站，但到了2026年，我当年找到的优秀教程早已不见，只剩下了那个作者留在知乎的教程，甚至最重要的一篇还被下架了，导致我永远也做不到那个作者的高度了。</p>
+<p>在此我留下ta原来博客域名和知乎链接以作纪念，用这种方式表达我对魔改作者的敬意：<br>
+原域名：<a href="https://moonshuo.cn/">https://moonshuo.cn/</a><br>
+作者知乎：<a href="https://www.zhihu.com/people/tou-diao-yue-liang-28">https://www.zhihu.com/people/tou-diao-yue-liang-28</a></p>
+<h2 id="结语">结语</h2>
+<p>感谢社区里的魔改者让博客也能变得这么美，同时我也感谢 <code>hexo</code> 官方发明出的如此简单和省心的博客模板。闲聊结束，再见！</p>
 ]]></content>
+      <tags>
+        <tag>闲聊</tag>
+      </tags>
   </entry>
 </search>

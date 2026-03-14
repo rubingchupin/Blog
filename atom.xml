@@ -11,31 +11,35 @@
   <rights>All rights reserved 2026, 如冰</rights>
   <subtitle>此即智慧之殿堂</subtitle>
   <title>如冰的博客</title>
-  <updated>2026-02-25T12:36:48.173Z</updated>
+  <updated>2026-03-14T10:20:23.272Z</updated>
   <entry>
     <author>
       <name>如冰</name>
     </author>
-    <id>https://rubing.us.kg/posts/62291.html</id>
-    <link href="https://rubing.us.kg/posts/62291.html"/>
-    <published>2026-02-25T12:35:06.182Z</published>
+    <category term="小学签名" scheme="https://rubing.us.kg/tags/%E5%B0%8F%E5%AD%A6%E7%AD%BE%E5%90%8D/"/>
+    <id>https://rubing.us.kg/posts/undefined.html</id>
+    <link href="https://rubing.us.kg/posts/undefined.html"/>
+    <published>2026-03-14T10:00:00.000Z</published>
     <summary>
-      <![CDATA[<h2]]>
+      <![CDATA[<h1]]>
     </summary>
-    <title>Hello</title>
-    <updated>2026-02-25T12:36:48.173Z</updated>
+    <title>六二班签名项目</title>
+    <updated>2026-03-14T10:20:23.272Z</updated>
   </entry>
   <entry>
     <author>
       <name>如冰</name>
     </author>
-    <id>https://rubing.us.kg/posts/62291.html</id>
-    <link href="https://rubing.us.kg/posts/62291.html"/>
-    <published>2026-02-19T11:21:46.042Z</published>
+    <category term="闲聊" scheme="https://rubing.us.kg/tags/%E9%97%B2%E8%81%8A/"/>
+    <id>https://rubing.us.kg/posts/undefined.html</id>
+    <link href="https://rubing.us.kg/posts/undefined.html"/>
+    <published>2026-03-14T04:00:00.000Z</published>
     <summary>
-      <![CDATA[<h2]]>
+      <![CDATA[<h1 id="关于我的博客">关于我的博客</h1>
+<h2 id="魔改阶段">魔改阶段</h2>
+<p>我的博客从2024年就开始筹备了，期间我对于 <code>hexo</code>]]>
     </summary>
-    <title>Hello</title>
-    <updated>2026-02-25T12:37:02.269Z</updated>
+    <title>我博客的历史</title>
+    <updated>2026-03-14T10:33:58.785Z</updated>
   </entry>
 </feed>
