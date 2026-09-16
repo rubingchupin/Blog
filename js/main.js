@@ -12,7 +12,9 @@ document.addEventListener('DOMContentLoaded', () => {
     if (init) {
       const blogInfoWidth = Array.from(document.querySelector('#blog-info > a').children).reduce((w, i) => w + i.offsetWidth, 0)
       const menusWidth = Array.from(document.getElementById('menus').children).reduce((w, i) => w + i.offsetWidth, 0)
-      headerContentWidth = blogInfoWidth + menusWidth
+      const navRight = document.getElementById('nav-right')
+      const navRightWidth = navRight ? Array.from(navRight.children).reduce((w, i) => w + i.offsetWidth, 0) : 0
+      headerContentWidth = blogInfoWidth + menusWidth + navRightWidth
       $nav = document.getElementById('nav')
     }
 

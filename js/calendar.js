@@ -397,4 +397,11 @@
     calendarRoot: 'calendar/',
     calendarUrl: 'calendar.json'
   };
+
+  // 自动初始化：页面中存在 #calendar 时自动渲染
+  $(function() {
+    if (document.getElementById('calendar')) {
+      $('#calendar').aCalendar('zh-CN');
+    }
+  });
 }(jQuery));
